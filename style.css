@@ -63,6 +63,17 @@ body {
   }
 }
 
+.menu .item.v2 {
+  /* padding: 0; */
+  box-sizing: border-box;
+  height: 72px;
+}
+
+.menu .item.v2 img {
+  display: block;
+  height: 100%;
+}
+
 .menu .img-item {
   position: relative;
   display: flex;
@@ -92,8 +103,17 @@ body {
     color: white;
     transform: scale(1);
   }
+ 
 }
+ .menu .img-item-img {
+    position: relative;
+    display: flex;
+    height: 72px;
+    border-radius: 6%;
+    overflow: hidden;
+    user-select: none;
 
+  }
 
 /* フッター */
 .footer {
@@ -314,6 +334,12 @@ body {
 }
 
 .twelve {
+ background-color: #509bb7;
+ 
+ color: white;
+ text-align: center;
+}
+.thirteen {
  background-color: #509bb7;
  
  color: white;

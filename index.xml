@@ -1,102 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello World! on My Hugo Site</title>
+    <title>My Hugo Site</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Hello World! on My Hugo Site</description>
+    <description>Recent content on My Hugo Site</description>
     <generator>Hugo</generator>
     <language>ja</language>
+    <lastBuildDate>Tue, 29 Jul 2025 10:44:19 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>//localhost:1313/page01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page01/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/flag-t.png&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;one&#34;&gt;&#xA;      友人とドライブをしていたら、謎の国旗を発見！！&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;        &#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page010/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page010/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/rodo.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;ten&#34;&gt;&#xA;      友人と居酒屋に行って解散した後の帰路で通った、ユニオン通りの写真。&#xA;      &lt;br&gt;シャッターが閉まって、誰もいない商店街は、何か出てきそうで不気味に感じる。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page011/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page011/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/ninngenisu.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;eleven&#34;&gt;&#xA;      茨城県にある、人間椅子というバンドのMVの撮影地に、ギター、ベース、ドラムを持って撮影しに行った。&#xA;      &lt;br&gt;私はベースを弾くので、ベースを持って撮影した。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page012/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page012/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/ro-ma.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;twelve&#34;&gt;&#xA;      場所は、一個前の投稿の場所と同じ公園。なんとここは、映画「テルマエロマエ」の撮影地でもあったらしく、&#xA;      &lt;br&gt;もちろんそのエリアも撮影してきた。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page02/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page02/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/city.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;two&#34;&gt;&#xA;      これは、いつ撮ったのか覚えてないくらい昔に撮った、渋谷の写真だ。&#xA;      &lt;br&gt;私は夜なのに明るく騒がしい不思議な気持ちにさせられる繁華街が大好きで、&#xA;      &lt;br&gt;よく渋谷や歌舞伎町に通い、よく写真を撮っていた。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page03/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page03/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/cloud.jpg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;three&#34;&gt;&#xA;      私はよく峠に車で走りに行く。&#xA;      &lt;br&gt;これは、那須の峠に行く途中に通った、もみじラインという峠で撮った写真である。&#xA;      &lt;br&gt;もみじラインは、あの有名な車漫画「頭文字D」でも登場する。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page04/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page04/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;   &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/moutain.jpg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;five&#34;&gt;&#xA;      那須にある、塩那スカイラインという峠に行った時の写真だ。&#xA;      &lt;br&gt;ここの峠は、落石あり、道路はガタガタで走りづらすぎるので、&#xA;      &lt;br&gt;気がおかしくならない限りもう行かないと誓った峠だ。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page05/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page05/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/crosswalks.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;four&#34;&gt;&#xA;      歌舞伎町前の大通りを撮影した。このギラギラとした灯りがたまらないんだよね。人酔いさえしなければ.....&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page06/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page06/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/cat.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;six&#34;&gt;&#xA;      これは、福島県の小名浜に釣りに行ったら、空の桶に猫が近づいてきて、魚がいるか探していた。&#xA;      &lt;br&gt;人慣れしてるなぁ。猫アレルギーじゃなかったらモフモフしてたね。言うまでも無い。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page07/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page07/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/hadasi.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;seven&#34;&gt;&#xA;      自転車を改造し、大谷資料館の方までサイクリングした時の写真&#xA;      &lt;br&gt;時刻は午前5時&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page08/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page08/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/monnja.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;eight&#34;&gt;&#xA;      とある日曜日。友人とサイクリングをした帰りに一軒のもんじゃ焼きのお店を見つけた。&#xA;      &lt;br&gt;そこで、私はもんじゃ焼きの作り方を知らず、最初から全部鉄板に入れてしまい、ドロドロしたモンジャになった。&#xA;      &lt;br&gt;まぁ、、、これはこれであり。&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/page09/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/page09/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/naaaa.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;nine&#34;&gt;&#xA;      My Dog♡&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/profile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/profile/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;title&gt;タイトル&lt;/title&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;style.css&#34;&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;  &lt;!-- ヘッダー --&gt;&#xA;  &lt;div class=&#34;header&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;title&#34;&gt;Project XX&lt;/div&gt;&#xA;      &lt;div class=&#34;menu&#34;&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;index.html&#34;&gt;ホーム&lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;profile.html&#34;&gt;プロフィール&lt;/a&gt;&#xA;        &lt;a class=&#34;img-item&#34; href=&#34;https://www.youtube.com/@%E6%B3%B0%E8%80%83&#34; target=&#34;_blank&#34;&gt;&#xA;          &lt;img class=&#34;img-item-img&#34; src=&#34;//localhost:1313/taikogoooo.jpeg&#34; alt=&#34;YouTube&#34;&gt;&#xA;          &lt;div class=&#34;img-item-overlay&#34;&gt;Go!!!!&lt;/div&gt;&#xA;        &lt;/a&gt;&#xA;        &lt;a class=&#34;item&#34; href=&#34;https://Google.com/&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!--　メイン　--&gt;&#xA;  &lt;div class=&#34;main&#34;&gt;&#xA;    &lt;div class=&#34;wrap&#34;&gt;&#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/jjjj.JPG&#34;&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;      &lt;div class=&#34;sekine&#34;&gt;&#xA;        文星芸術大学　神野です&#xA;          &lt;br&gt;私は、車を運転して写真を撮りに行くことが大好きなので、よく撮りに行きます。&#xA;            &lt;br&gt;このサイトでは、そこで撮影した写真をあげていこうと思っています。&#xA;                &lt;br&gt;さらに、楽器なども製作しているので、それもあげていきます！&#xA;        &lt;br&gt;Youtubeチャンネルもあるので、暇で仕方がなくなったらでも良いので、ぜひ見てください。&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- フッター　--&gt;&#xA;  &lt;footer class=&#34;footer&#34;&gt;&#xA;    &lt;div class=&#34;footer-wrap&#34;&gt;&#xA;      &lt;p class=&#34;copyright&#34;&gt;&amp;copy; Taisei Jinno&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/footer&gt;&#xA;&#xA;  &lt;a href=&#34;#&#34; class=&#34;top-button&#34;&gt;Top&lt;/a&gt;&#xA;&lt;/body&gt;&#xA;&#xA;&lt;/html&gt;</description>
+      <title>Test</title>
+      <link>//localhost:1313/test/</link>
+      <pubDate>Tue, 29 Jul 2025 10:44:19 +0900</pubDate>
+      <guid>//localhost:1313/test/</guid>
+      <description></description>
     </item>
     <item>
       <title>About</title>
@@ -104,6 +21,104 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/about/</guid>
       <description>&lt;h1&gt;About this site&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;This is a Hugo site example.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>page01</title>
+      <link>//localhost:1313/page01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page01/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/flag-t.png&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;one&#34;&gt;&#xA;      友人とドライブをしていたら、謎の国旗を発見！！&#xA;        &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page010</title>
+      <link>//localhost:1313/page10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page10/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/rodo.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;ten&#34;&gt;&#xA;      友人と居酒屋に行って解散した後の帰路で通った、ユニオン通りの写真。&#xA;      &lt;br&gt;シャッターが閉まって、誰もいない商店街は、何か出てきそうで不気味に感じる。&#xA;        &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page02</title>
+      <link>//localhost:1313/page02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page02/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:1313/city.jpeg&#34;&gt;&#xA;   &lt;/div&gt;&#xA;    &lt;div class=&#34;two&#34;&gt;&#xA;      これは、いつ撮ったのか覚えてないくらい昔に撮った、渋谷の写真だ。&#xA;      &lt;br&gt;私は夜なのに明るく騒がしい不思議な気持ちにさせられる繁華街が大好きで、&#xA;      &lt;br&gt;よく渋谷や歌舞伎町に通い、よく写真を撮っていた。&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page03</title>
+      <link>//localhost:1313/page03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page03/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;     &lt;img src=&#34;//localhost:1313/cloud.jpg&#34;&gt;&#xA;  &lt;/div&gt;&#xA;    &lt;div class=&#34;three&#34;&gt;&#xA;      私はよく峠に車で走りに行く。&#xA;      &lt;br&gt;これは、那須の峠に行く途中に通った、もみじラインという峠で撮った写真である。&#xA;      &lt;br&gt;もみじラインは、あの有名な車漫画「頭文字D」でも登場する。&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page04</title>
+      <link>//localhost:1313/page04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page04/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/moutain.jpg&#34;&gt;&#xA;  &lt;/div&gt;&#xA;    &lt;div class=&#34;five&#34;&gt;&#xA;      那須にある、塩那スカイラインという峠に行った時の写真だ。&#xA;      &lt;br&gt;ここの峠は、落石あり、道路はガタガタで走りづらすぎるので、&#xA;      &lt;br&gt;気がおかしくならない限りもう行かないと誓った峠だ。&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page05</title>
+      <link>//localhost:1313/page05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page05/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/crosswalks.jpeg&#34;&gt;&#xA;  &lt;/div&gt;&#xA;    &lt;div class=&#34;four&#34;&gt;&#xA;      歌舞伎町前の大通りを撮影した。このギラギラとした灯りがたまらないんだよね。人酔いさえしなければ.....&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page06</title>
+      <link>//localhost:1313/page06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page06/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/cat.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;six&#34;&gt;&#xA;      これは、福島県の小名浜に釣りに行ったら、空の桶に猫が近づいてきて、魚がいるか探していた。&#xA;      &lt;br&gt;人慣れしてるなぁ。猫アレルギーじゃなかったらモフモフしてたね。言うまでも無い。&#xA;        &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page07</title>
+      <link>//localhost:1313/page07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page07/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/hadasi.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;seven&#34;&gt;&#xA;      自転車を改造し、大谷資料館の方までサイクリングした時の写真&#xA;      &lt;br&gt;時刻は午前5時&#xA;        &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page08</title>
+      <link>//localhost:1313/page08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page08/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/monnja.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;eight&#34;&gt;&#xA;      とある日曜日。友人とサイクリングをした帰りに一軒のもんじゃ焼きのお店を見つけた。&#xA;      &lt;br&gt;そこで、私はもんじゃ焼きの作り方を知らず、最初から全部鉄板に入れてしまい、ドロドロしたモンジャになった。&#xA;      &lt;br&gt;まぁ、、、これはこれであり。&#xA;        &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page09</title>
+      <link>//localhost:1313/page09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page09/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/naaaa.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;nine&#34;&gt;&#xA;      My Dog♡&#xA;        &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page11</title>
+      <link>//localhost:1313/page11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page11/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/ninngenisu.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;eleven&#34;&gt;&#xA;      茨城県にある、人間椅子というバンドのMVの撮影地に、ギター、ベース、ドラムを持って撮影しに行った。&#xA;      &lt;br&gt;私はベースを弾くので、ベースを持って撮影した。&#xA;        &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page12</title>
+      <link>//localhost:1313/page12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page12/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/ro-ma.jpeg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;twelve&#34;&gt;&#xA;      場所は、一個前の投稿の場所と同じ公園。なんとここは、映画「テルマエロマエ」の撮影地でもあったらしく、&#xA;      &lt;br&gt;もちろんそのエリアも撮影してきた。&#xA;        &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>page13</title>
+      <link>//localhost:1313/page13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page13/</guid>
+      <description>&lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/kaibutu.png&#34;&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;thieteen&#34;&gt;&#xA;      課題&#xA;      &lt;br&gt;&#xA;        &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Profile</title>
+      <link>//localhost:1313/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/profile/</guid>
+      <description>&lt;!--　メイン　--&gt;&#xA; &#xA;      &lt;div class=&#34;photo&#34;&gt;&#xA;        &lt;img src=&#34;//localhost:1313/jjjj.JPG&#34;&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;      &lt;div class=&#34;sekine&#34;&gt;&#xA;        文星芸術大学　神野です&#xA;          &lt;br&gt;私は、車を運転して写真を撮りに行くことが大好きなので、よく撮りに行きます。&#xA;            &lt;br&gt;このサイトでは、そこで撮影した写真をあげていこうと思っています。&#xA;                &lt;br&gt;さらに、楽器なども製作しているので、それもあげていきます！&#xA;        &lt;br&gt;Youtubeチャンネルもあるので、暇で仕方がなくなったらでも良いので、ぜひ見てください。&#xA;      &lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
