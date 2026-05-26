@@ -19,14 +19,14 @@ function setup() {
 
  let code = getItem('paint')
  decodePixels(code);
- inputColor = select('#color');
- inputWeight = select('#weight');
+ 　inputColor = select('#color');
+ 　inputWeight = select('#weight');
 
- btnClear = select('#clear');
- btnClear.mousePressed(clearAll);
+ 　btnClear = select('#clear');
+ 　btnClear.mousePressed(clearAll);
 
- btnSave = select('#save');
- btnSave.mousePressed(saveImg);
+ 　btnSave = select('#save');
+ 　btnSave.mousePressed(saveImg);
 
  update();
 
