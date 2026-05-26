@@ -32,6 +32,7 @@ function decodePixels(data) {
 		pixels[i+2] = b;
 		pixels[i+3] = 255;
 	}
+	
 	updatePixels();
 }
 

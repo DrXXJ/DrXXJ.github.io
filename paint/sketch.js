@@ -77,7 +77,7 @@ function saveImg(){
 }
 
 function mouseReleased() {
-  console.log('マウスを放しました。 ');
+  console.log('マウスを放しました。');
   let code = encodePixels();
   console.log(code);
   storeItem('paint', code);
