@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 550.52 476.23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #040000;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <symbol id="_はなお" data-name="はなお" viewBox="0 0 477.26 198.54">
+      <path class="cls-1" d="M17.22,197.92L.52,189.16S-6.13,64.62,219.39,21.88c228.33-43.27,253.65-7.49,253.65-7.49,0,0,11.02,12.44-4.84,19.82s-134.77,8.66-189.36,21.14c-50.84,11.62-165.88,41.07-261.62,142.57Z"/>
+    </symbol>
+  </defs>
+  <circle class="cls-1" cx="55.15" cy="241.48" r="54.65"/>
+  <use width="477.26" height="198.54" transform="translate(67.97)" xlink:href="#_はなお"/>
+  <use width="477.26" height="198.54" transform="translate(73.26 476.23) scale(1 -1)" xlink:href="#_はなお"/>
+</svg>
